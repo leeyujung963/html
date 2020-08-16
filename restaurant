@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+	<meta charset="UTF-8">
+	<title>res</title>
+	<style>
+		img{
+			position:absolute;
+			left:100px;
+			top:100px;
+		}
+	</style>
+</head>
+<body>
+	<img src="https://cdn.pixabay.com/photo/2017/01/26/02/06/platter-2009590_1280.jpg" width="500"/>
+	<p>
+    여기 존맛탱
+    </p>
+
+	
+</body>
+</html>
