@@ -1,1 +1,112 @@
-#htmlhtmlhtml
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+	<body>
+
+		<div id="page-wrapper">
+
+			<header id="main-header">
+
+				<hgroup>
+
+					<h1 class="master-title">
+					sample</h1>
+
+
+				<nav id="main-navigation">
+
+					<div class="pull-left">
+
+						<ul class="outer-menu">
+
+							<li class="outer-menu-item">
+
+								<span class="menu-title"><a href="introduction.html">About us</a></span>
+
+								 
+							</li>
+
+							<li class="outer-menu-item">
+
+								<span class="menu-title">Days</span>
+
+								<ul class="inner-menu">
+
+									<li class="inner-menu-item"><a href="reservation.html">monday</a></li>
+
+									<li class="inner-menu-item"><a href="reservation.html">tuesday</a></li>
+
+									<li class="inner-menu-item"><a href="reservation.html">wednesday</a></li>
+
+									<li class="inner-menu-item"><a href="reservation.html">thursday</a></li>
+
+									<li class="inner-menu-item"><a href="reservation.html">friday</a></li>
+
+
+								</ul>
+
+
+							</li>
+
+							<li class="outer-menu-item">
+
+								<span class="menu-title">time</span>
+
+								<ul class="inner-menu">
+
+									<li class="inner-menu-item"><a href="reservation.html">12~1pm</a></li>
+
+									<li class="inner-menu-item"><a href="reservation.html">1~2pm</a></li>
+
+									<li class="inner-menu-item"><a href="reservation.html">3~4pm</a></li>
+
+									<li class="inner-menu-item"><a href="reservation.html">4~5pm</a></li>
+
+									<li class="inner-menu-item"><a href="reservation.html">5~6pm</a></li>
+
+								</ul>
+
+
+							</li>
+
+
+					    <li class="outer-menu-item">
+
+								<span class="menu-title">Together</span>
+
+								<ul class="inner-menu">
+
+									<li class="inner-menu-item"><a href="#">##</a></li>
+
+								</ul>
+
+
+							</li>
+
+						 <li class="outer-menu-item">
+
+							<span class="menu-title"><a href="restaurant.html">Review</a></span>
+
+
+						</li>
+
+
+
+					<div class="pull-right">
+
+					
+					</div>
+
+					</div>
+
+				</nav>
+
+			</header>
+
+		
+	
+</body>
+</html>
